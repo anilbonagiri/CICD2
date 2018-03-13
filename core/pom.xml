@@ -28,6 +28,7 @@
     <name>cicd2 - Core</name>
     <description>Core bundle for cicd2</description>
     <build>
+    	<finalName>${project.artifactId}${build.number}${build.date.formatted}</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.felix</groupId>

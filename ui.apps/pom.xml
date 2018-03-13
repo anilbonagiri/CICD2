@@ -46,6 +46,7 @@
     <!-- B U I L D   D E F I N I T I O N                                        -->
     <!-- ====================================================================== -->
     <build>
+    	<finalName>${project.artifactId}${build.number}${build.date.formatted}</finalName>
         <resources>
             <!-- define the resources that will go into the package -->
             <resource>
