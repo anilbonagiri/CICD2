@@ -1,0 +1,6 @@
+com\aem\dcx\cicd_2\core\package-info.class
+com\aem\dcx\cicd_2\core\servlets\SimpleServlet.class
+com\aem\dcx\cicd_2\core\models\HelloWorldModel.class
+com\aem\dcx\cicd_2\core\filters\LoggingFilter.class
+com\aem\dcx\cicd_2\core\listeners\SimpleResourceListener.class
+com\aem\dcx\cicd_2\core\schedulers\SimpleScheduledTask.class
